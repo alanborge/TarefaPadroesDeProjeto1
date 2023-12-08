@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package tarefapadroesdeprojeto1;
+
+/**
+ *
+ * @author alan.menezes
+ */
+public class CDPlayer extends Som{
+
+    public CDPlayer() {
+    }
+    
+}
